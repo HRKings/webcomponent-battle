@@ -1,8 +1,7 @@
-[submodule "lit-webcomponent-experiment"]
+[submodule "lit-wc"]
 	path = lit-wc
 	url = git@github.com:HRKings/lit-webcomponent-experiment.git
-
-[submodule "svelte-webcomponent-experiment"]
+[submodule "svelte-wc"]
 	path = svelte-wc
 	url = git@github.com:HRKings/svelte-webcomponent-experiment.git
 [submodule "vue-wc"]
