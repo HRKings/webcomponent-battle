@@ -5,3 +5,9 @@
 [submodule "svelte-webcomponent-experiment"]
 	path = svelte-wc
 	url = git@github.com:HRKings/svelte-webcomponent-experiment.git
+[submodule "vue-wc"]
+	path = vue-wc
+	url = git@github.com:HRKings/vue-webcomponent-experiment.git
+[submodule "react-wc"]
+	path = react-wc
+	url = git@github.com:HRKings/react-webcomponent-experiment.git
